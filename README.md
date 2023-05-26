@@ -15,8 +15,8 @@
     <img src="https://media.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif" style="width: 72px; height: 72px;">
     <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" style="width: 72px; height: 72px;">
     <br><br>
-    <img src="https://cdn-icons-png.flaticon.com/512/183/183324.png?w=740&t=st=1685133901~exp=1685134501~hmac=6c8d629fa4668bac896ba6cb73a83cac3ccb8bd35a3481391dfac9fd86364072" style="width: 72px; height: 72px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/225px-Tux.svg.png" style="width: 72px; height: 72px; margin: 20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/1200px-Cisco_logo_blue_2016.svg.png" style="width: 128px; height: 72px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/183/183324.png?w=740&t=st=1685133901~exp=1685134501~hmac=6c8d629fa4668bac896ba6cb73a83cac3ccb8bd35a3481391dfac9fd86364072" style="width: 48px; height: 48px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/225px-Tux.svg.png" style="width: 48px; height: 48px; margin: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/1200px-Cisco_logo_blue_2016.svg.png" style="width: 96px; height: 48px;">
    
 </div>
