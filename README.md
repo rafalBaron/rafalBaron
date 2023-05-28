@@ -1,3 +1,4 @@
+<body style="background-color: #0d1117;">
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" style="width: 128px; height: 128px;">
     <br><br>
@@ -20,3 +21,4 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/1200px-Cisco_logo_blue_2016.svg.png" style="width: 96px; height: 48px;">
    
 </div>
+</body>
