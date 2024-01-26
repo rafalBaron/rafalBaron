@@ -5,7 +5,7 @@
 </div>
 
 <div id="main" align="center">
-    <h1>How did you get there?</h1>
+    <h1>Welcome</h1>
     <br><br>
     <a>My name is Rafał. I'm a full-time student of Computer Science at Uniwersytet Śląski w Katowicach</a>
     <br><br><br><br>
