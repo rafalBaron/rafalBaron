@@ -3,6 +3,5 @@
     <h1>Welcome</h1>
 </div>
 <div id="main" align="center">
-    <a></a>
 </div>
 </body>
