@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rafał</h1>
 <h3 align="center">Robotic Process Automation Dev</h3>
-<a href="https://saio.com/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPW4R7x7862ZP3HlVg5PCZ-hYP5aygVLI3w&s" alt="SAIO" height="40" width="40" /></a>
-
+<p align="center">
+<a href="https://saio.com/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPW4R7x7862ZP3HlVg5PCZ-hYP5aygVLI3w&s" alt="SAIO" height="60" width="60" /></a>
+<a href="https://saio.com/" target="blank"><img align="center" src="https://www.ing.pl/_fileserver/item/wvpbsyq.92721fd838676611e42d5593b6a64d8b061eebbfcdbcab36fdf9cf01a4965e5c" alt="ING" height="60" width="60" /></a>
+</p>
 - 🔭 I’m currently working on [traska-app](https://github.com/rafalBaron/traska-app-public)
 
 - 📫 How to reach me **rafal.it@baron.hub.pl**
