@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafał</h1>
 <h3 align="center">Robotic Process Automation Dev</h3>
-<h4 align="center">ING Poland & [SAIO](https://github.com/rafalBaron/traska-app-public)</h3>
+<a href="https://saio.com/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPW4R7x7862ZP3HlVg5PCZ-hYP5aygVLI3w&s" alt="SAIO" height="40" width="40" /></a>
 
 - 🔭 I’m currently working on [traska-app](https://github.com/rafalBaron/traska-app-public)
 
