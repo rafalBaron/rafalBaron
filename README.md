@@ -1,16 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rafał</h1>
-<h3 align="center">Robotic Process Automation Developer</h3>
-
-<p align="center">
-<a href="https://saio.com/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPW4R7x7862ZP3HlVg5PCZ-hYP5aygVLI3w&s" alt="SAIO" height="60" width="60" /></a>
-<a href="https://www.ing.pl/" target="blank"><img align="center" src="https://www.nordichq.com/wp-content/uploads/2023/03/ING-bank-logo.png" alt="ING" height="100" width="100" /></a>
-</p>
 
 - 🔭 I’m currently working on [traska-app](https://github.com/rafalBaron/traska-app-public)
 
 - 📫 How to reach me **rafal.it@baron.hub.pl**
-
-- ⚡ Fun fact **I don't know exactly what I wanna do for a living in coding yet :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
