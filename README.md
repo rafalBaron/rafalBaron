@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafał</h1>
 
-- 🔭 I’m currently working on [traska-app](https://github.com/rafalBaron/traska-app-public)
+- 🔭 I’m currently working on [traska-app](https://github.com/rafalBaron/traska)
 
 - 📫 How to reach me **rafal.it@baron.hub.pl**
 
