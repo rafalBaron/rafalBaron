@@ -1,17 +1,12 @@
 # 👋 Hi there, I'm Rafał!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation">
 </div>
 
 ## 👨‍💻 About Me
 
 I'm an **RPA Developer** and currently specialize in creating efficient scripts using C# and .NET that interact with various APIs and applications, enabling automated data aggregation and transmission.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-</div>
 
 ## 🛠️ Technical Skills
 
@@ -59,15 +54,7 @@ Key features:
 
 ## 📫 Contact Me
 
-You can reach me here: **www.linkedin.com/in/rafalbaron**
-
-or
-
-just e-mail me: **rafal.IT@baron.hub.pl**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafalBaron&layout=compact&theme=radical" alt="Most Used Languages">
-</div>
+You can reach me here **www.linkedin.com/in/rafalbaron** or just e-mail me **rafal.IT@baron.hub.pl**
 
 ---
 
