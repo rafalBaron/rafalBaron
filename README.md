@@ -3,32 +3,14 @@ Hi! My name is Rafał and I'm an **RPA Developer**, currently specialize in crea
 
 ## 🛠️ Technical Skills
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td valign="top" style="border: none; padding-right: 30px;">
-      <h3>Programming Languages & Frameworks</h3>
-      <ul>
-        <li><strong>C#</strong></li>
-        <li><strong>Kotlin</strong></li>
-        <li><strong>Java</strong></li>
-        <li><strong>Python</strong></li>
-        <li><strong>HTML5</strong> & <strong>CSS</strong></li>
-        <li><strong>SQL</strong></li>
-      </ul>
-    </td>
-    <td valign="top" style="border: none;">
-      <h3>Tools & Technologies</h3>
-      <ul>
-        <li><strong>Git</strong></li>
-        <li><strong>Selenium</strong></li>
-        <li><strong>Jetpack Compose</strong></li>
-        <li><strong>Firebase</strong></li>
-        <li><strong>Google Cloud Platform</strong></li>
-        <li><strong>APIs</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| Programming Languages & Frameworks | Tools & Technologies       |
+| :------------------------------- | :------------------------- |
+| **C#** | **Git** |
+| **Kotlin** | **Selenium** |
+| **Java** | **Jetpack Compose** |
+| **Python** | **Firebase** |
+| **HTML5** & **CSS** | **Google Cloud Platform** |
+| **SQL** | **APIs** |
 
 ## 📈 Professional Experience
 
