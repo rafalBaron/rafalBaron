@@ -3,9 +3,9 @@ Hi! My name is Rafał and I'm an **RPA Developer**, currently specialize in crea
 
 ## 🛠️ Technical Skills
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td valign="top">
+    <td valign="top" style="border: none; padding-right: 30px;">
       <h3>Programming Languages & Frameworks</h3>
       <ul>
         <li><strong>C#</strong></li>
@@ -16,7 +16,7 @@ Hi! My name is Rafał and I'm an **RPA Developer**, currently specialize in crea
         <li><strong>SQL</strong></li>
       </ul>
     </td>
-    <td valign="top">
+    <td valign="top" style="border: none;">
       <h3>Tools & Technologies</h3>
       <ul>
         <li><strong>Git</strong></li>
@@ -40,13 +40,13 @@ Hi! My name is Rafał and I'm an **RPA Developer**, currently specialize in crea
 
 ## 🚀 Projects
 
-### TraSka - Android Application
+### TraSka
 
-My biggest project - **TraSka** is an Android application I developed as part of my Engineering Thesis, which I successfully defended in February 2025. This project demonstrates my skills in mobile development using modern Android technologies.
+**TraSka** is an Android application I developed as part of my Engineering Thesis, which I successfully defended in February 2025. This project demonstrates my skills in mobile development using modern Android technologies.
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td valign="top">
+    <td valign="top" style="border: none; padding-right: 30px;">
       <h3>Technologies Used</h3>
       <ul>
         <li>Kotlin</li>
@@ -56,7 +56,7 @@ My biggest project - **TraSka** is an Android application I developed as part of
         <li>Google Maps Platform APIs (Directions API, Places API)</li>
       </ul>
     </td>
-    <td valign="top">
+    <td valign="top" style="border: none;">
       <h3>Key Features</h3>
       <ul>
         <li>Optimized routing between multiple waypoints to minimize travel time and distance</li>
