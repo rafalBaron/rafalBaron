@@ -1,7 +1,12 @@
-## 👨‍💻 About Me
+<div align="center">
+  ## 👨‍💻 About Me
+</div>
+
 Hi! My name is Rafał and I'm an **RPA Developer**, currently specialize in creating efficient scripts using C# and .NET that interact with various APIs and applications, enabling automated data aggregation and transmission.
 
-## 🛠️ Technical Skills
+<div align="center">
+  ## 🛠️ Technical Skills
+</div>
 
 ### Programming Languages & Frameworks
 - **C#**
@@ -19,7 +24,9 @@ Hi! My name is Rafał and I'm an **RPA Developer**, currently specialize in crea
 - **Google Cloud Platform**
 - **APIs**
 
-## 📈 Professional Experience
+<div align="center">
+  ## 📈 Professional Experience
+</div>
 
 ### RPA Developer
 - Automating business processes using C# and .NET scripts
@@ -27,7 +34,9 @@ Hi! My name is Rafał and I'm an **RPA Developer**, currently specialize in crea
 - Building solutions for data aggregation and transfer between applications
 - Optimizing processes to increase efficiency and reduce human error
 
-## 🚀 Projects
+<div align="center">
+  ## 🚀 Projects
+</div>
 
 ### TraSka
 
