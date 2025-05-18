@@ -1,13 +1,11 @@
 <div align="center">
   <h1>👨‍💻 About Me</h1>
-  ---
 </div>
 
 Hi! My name is Rafał and I'm an **RPA Developer**, currently specialize in creating efficient scripts using C# and .NET that interact with various APIs and applications, enabling automated data aggregation and transmission.
 
 <div align="center">
   <h1>🛠️ Technical Skills</h1>
-  ---
 </div>
 
 ### Programming Languages & Frameworks
@@ -28,7 +26,6 @@ Hi! My name is Rafał and I'm an **RPA Developer**, currently specialize in crea
 
 <div align="center">
  <h1>📈 Professional Experience</h1>
-  ---
 </div>
 
 ### RPA Developer
@@ -39,7 +36,6 @@ Hi! My name is Rafał and I'm an **RPA Developer**, currently specialize in crea
 
 <div align="center">
   <h1>🚀 Projects</h1>
-  ---
 </div>
 
 ### TraSka
@@ -62,7 +58,9 @@ Key features:
 
 Rest of the projects you can see in my repos tab :)
 
-## 📫 Contact Me
+<div align="center"> 
+  <h1>📫 Contact Me</h1>
+</div>
 
 You can reach me here **www.linkedin.com/in/rafalbaron** or just e-mail me **rafal.IT@baron.hub.pl**
 
