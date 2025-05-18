@@ -41,9 +41,6 @@ Hi! My name is Rafał and I'm an **RPA Developer**, currently specialize in crea
 ## 🚀 Projects
 
 ### TraSka - Android Application
-<div align="center">
-  <img src="https://i.imgur.com/placeholder.png" alt="TraSka App" width="230" height="400">
-</div>
 
 My biggest project - **TraSka** is an Android application I developed as part of my Engineering Thesis, which I successfully defended in February 2025. This project demonstrates my skills in mobile development using modern Android technologies.
 
