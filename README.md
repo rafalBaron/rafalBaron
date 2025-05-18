@@ -1,8 +1,4 @@
-# 👋 Hi there, I'm Rafał!
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation">
-</div>
+# Rafał Baron
 
 ## 👨‍💻 About Me
 
@@ -36,25 +32,18 @@ I'm an **RPA Developer** and currently specialize in creating efficient scripts 
 
 ## 🚀 Projects
 
-My biggest project - TraSka is an Android application I developed as part of my Engineering Thesis, which I successfully defended in February 2025. This project demonstrates my skills in mobile development using modern Android technologies.
+My biggest project - **TraSka** is an Android application I developed as part of my Engineering Thesis, which I successfully defended in February 2025. 
+This project demonstrates my skills in mobile development using modern Android technologies.
 
-Technologies used:
+Technologies used:                                                    Key features:
 
-- Kotlin
-- Jetpack Compose
-- Firebase
+- Kotlin                                                              - Optimized routing between multiple waypoints to minimize travel time and distance
+- Jetpack Compose                                                     - Integration with various Google Maps Platform APIs for accurate and efficient route calculation
+- Firebase                                                            - User-friendly interface built with Jetpack Compose
 - Google Cloud Platform
 - Google Maps Platform APIs (Directions API, Places API)
 
-Key features:
-
-- Optimized routing between multiple waypoints to minimize travel time and distance
-- Integration with various Google Maps Platform APIs for accurate and efficient route calculation
-- User-friendly interface built with Jetpack Compose
-
-## 📫 Contact Me
-
-You can reach me here **www.linkedin.com/in/rafalbaron** or just e-mail me **rafal.IT@baron.hub.pl**
+Rest of the projects u can see in my repos tab :)
 
 ---
 
