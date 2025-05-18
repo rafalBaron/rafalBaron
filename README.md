@@ -3,9 +3,21 @@ Hi! My name is Rafał and I'm an **RPA Developer**, currently specialize in crea
 
 ## 🛠️ Technical Skills
 
-**Programming Languages & Frameworks:** C#, Kotlin, Java, Python, HTML5 & CSS, SQL
+### Programming Languages & Frameworks
+- **C#**
+- **Kotlin**
+- **Java**a
+- **Python**
+- **HTML5** & **CSS**
+- **SQL**
 
-**Tools & Technologies:** Git, Selenium, Jetpack Compose, Firebase, Google Cloud Platform, APIs
+### Tools & Technologies
+- **Git**
+- **Selenium**
+- **Jetpack Compose**
+- **Firebase**
+- **Google Cloud Platform**
+- **APIs**
 
 ## 📈 Professional Experience
 
@@ -21,28 +33,19 @@ Hi! My name is Rafał and I'm an **RPA Developer**, currently specialize in crea
 
 **TraSka** is an Android application I developed as part of my Engineering Thesis, which I successfully defended in February 2025. This project demonstrates my skills in mobile development using modern Android technologies.
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td valign="top" style="border: none; padding-right: 30px;">
-      <h3>Technologies Used</h3>
-      <ul>
-        <li>Kotlin</li>
-        <li>Jetpack Compose</li>
-        <li>Firebase</li>
-        <li>Google Cloud Platform</li>
-        <li>Google Maps Platform APIs (Directions API, Places API)</li>
-      </ul>
-    </td>
-    <td valign="top" style="border: none;">
-      <h3>Key Features</h3>
-      <ul>
-        <li>Optimized routing between multiple waypoints to minimize travel time and distance</li>
-        <li>Integration with various Google Maps Platform APIs for accurate and efficient route calculation</li>
-        <li>User-friendly interface built with Jetpack Compose</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+Technologies used:
+
+- Kotlin
+- Jetpack Compose
+- Firebase
+- Google Cloud Platform
+- Google Maps Platform APIs (Directions API, Places API)
+
+Key features:
+
+- Optimized routing between multiple waypoints to minimize travel time and distance
+- Integration with various Google Maps Platform APIs for accurate and efficient route calculation
+- User-friendly interface built with Jetpack Compose
 
 Rest of the projects you can see in my repos tab :)
 
