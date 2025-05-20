@@ -1,10 +1,12 @@
-<div align="center">
+<div>
   <h1>👨‍💻 About Me</h1>
 </div>
 
+
 Hi! My name is Rafał and I'm an **RPA Developer**, currently specialize in creating efficient scripts using C# and .NET that interact with various APIs and applications, enabling automated data aggregation and transmission.
 
-<div align="center">
+
+<div >
   <h1>🛠️ Technical Skills</h1>
 </div>
 
@@ -24,7 +26,7 @@ Hi! My name is Rafał and I'm an **RPA Developer**, currently specialize in crea
 - **Google Cloud Platform**
 - **APIs**
 
-<div align="center">
+<div>
  <h1>📈 Professional Experience</h1>
 </div>
 
@@ -34,7 +36,7 @@ Hi! My name is Rafał and I'm an **RPA Developer**, currently specialize in crea
 - Building solutions for data aggregation and transfer between applications
 - Optimizing processes to increase efficiency and reduce human error
 
-<div align="center">
+<div>
   <h1>🚀 Projects</h1>
 </div>
 
@@ -58,11 +60,13 @@ Key features:
 
 Rest of the projects you can see in my repos tab :)
 
-<div align="center"> 
+<div> 
   <h1>📫 Contact Me</h1>
 </div>
 
+
 You can reach me here **www.linkedin.com/in/rafalbaron** or just e-mail me **rafal.IT@baron.hub.pl**
+
 
 ---
 
