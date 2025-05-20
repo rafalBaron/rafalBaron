@@ -8,34 +8,36 @@ Hi! My name is Rafał and I'm an **RPA Developer**, currently specialize in crea
   <h1>🛠️ Technical Skills</h1>
 </div>
 
-### Programming Languages & Frameworks
+### Programming Languages
 - **C#**
+- **Python**
 - **Kotlin**
 - **Java**
-- **Python**
 - **HTML5** & **CSS**
 - **SQL**
 
 ### Tools & Technologies
+- **.NET**
 - **Git**
 - **Selenium**
 - **Jetpack Compose**
 - **Firebase**
 - **Google Cloud Platform**
 - **APIs**
+- **Basics of Linux administration**
 
 <div>
  <h1>📈 Professional Experience</h1>
 </div>
 
-### RPA Developer
+### RPA Developer (ING Poland | SAIO)
 - Automating business processes using C# and .NET scripts
 - Integrating systems through various APIs
 - Building solutions for data aggregation and transfer between applications
 - Optimizing processes to increase efficiency and reduce human error
 
 <div>
-  <h1>🚀 Projects</h1>
+  <h1>🚀 Biggest project</h1>
 </div>
 
 ### TraSka
