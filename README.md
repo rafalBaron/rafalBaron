@@ -2,7 +2,7 @@
   <h1>👨‍💻 About Me</h1>
 </div>
 
-Hi! My name is Rafał and I'm an **RPA Developer**, currently specialize in creating efficient scripts using C# and .NET that interact with various APIs and applications, enabling automated data aggregation and transmission.
+Hi! My name is Rafał and I'm a **RPA Developer**, currently specialize in creating efficient scripts using C# and .NET that interact with various APIs and applications, enabling automated data aggregation and transmission.
 
 <div >
   <h1>🛠️ Technical Skills</h1>
