@@ -31,7 +31,7 @@ Hi! My name is Rafał and I'm a **.NET** / **RPA Developer**, currently speciali
  <h1>Professional Experience</h1>
 </div>
 
-### RPA Developer (ING Poland | SAIO)
+### .NET/RPA Developer (ING Poland | SAIO)
 - Automating business processes using C# and .NET scripts
 - Integrating systems through various APIs
 - Building solutions for data aggregation and transfer between applications
