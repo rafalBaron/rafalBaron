@@ -1,11 +1,11 @@
 <div>
-  <h1>👨‍💻 About Me</h1>
+  <h1>About Me</h1>
 </div>
 
 Hi! My name is Rafał and I'm a **.NET** / **RPA Developer**, currently specialize in creating efficient scripts using C# and .NET that interact with various APIs and applications, enabling automated data aggregation and transmission.
 
 <div >
-  <h1>🛠️ Technical Skills</h1>
+  <h1>Technical Skills</h1>
 </div>
 
 ### Programming Languages
@@ -28,7 +28,7 @@ Hi! My name is Rafał and I'm a **.NET** / **RPA Developer**, currently speciali
 - **Basics of Linux administration**
 
 <div>
- <h1>📈 Professional Experience</h1>
+ <h1>Professional Experience</h1>
 </div>
 
 ### RPA Developer (ING Poland | SAIO)
@@ -38,7 +38,7 @@ Hi! My name is Rafał and I'm a **.NET** / **RPA Developer**, currently speciali
 - Optimizing processes to increase efficiency and reduce human error
 
 <div>
-  <h1>🚀 Biggest project</h1>
+  <h1>Biggest project</h1>
 </div>
 
 ### TraSka
@@ -62,7 +62,7 @@ Key features:
 Rest of the projects you can see in my repos tab :)
 
 <div> 
-  <h1>📫 Contact Me</h1>
+  <h1>Contact Me</h1>
 </div>
 
 
