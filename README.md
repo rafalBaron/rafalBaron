@@ -1,76 +1,47 @@
-<div>
-  <h1>About Me</h1>
-</div>
+# About Me
 
-Hi! My name is Rafał and I'm a **.NET** / **RPA Developer**, currently specialize in creating efficient scripts using C# and .NET that interact with various APIs and applications, enabling automated data aggregation and transmission.
+Hi! I'm Rafał, a **.NET / C# Developer** with 2+ years of commercial experience,
+currently working at ING Poland and SAIO.
 
-<div >
-  <h1>Technical Skills</h1>
-</div>
-
-### Programming Languages
-- **C#**
-- **Python**
-- **Kotlin**
-- **Java**
-- **HTML5** & **CSS**
-- **SQL**
-
-### Tools & Technologies
-- **.NET**
-- **Git**
-- **Selenium**
-- **WinForms**
-- **Jetpack Compose**
-- **Firebase**
-- **Google Cloud Platform**
-- **REST API**
-- **Basics of Linux administration**
-
-<div>
- <h1>Professional Experience</h1>
-</div>
-
-### .NET/RPA Developer (ING Poland | SAIO)
-- Automating business processes using C# and .NET scripts
-- Integrating systems through various APIs
-- Building solutions for data aggregation and transfer between applications
-- Optimizing processes to increase efficiency and reduce human error
-
-<div>
-  <h1>Biggest project</h1>
-</div>
-
-### TraSka
-
-**TraSka** is an Android application I developed as part of my Engineering Thesis, which I successfully defended in February 2025. This project demonstrates my skills in mobile development using modern Android technologies.
-
-Technologies used:
-
-- Kotlin
-- Jetpack Compose
-- Firebase
-- Google Cloud Platform
-- Google Maps Platform APIs (Directions API, Places API)
-
-Key features:
-
-- Optimized routing between multiple waypoints to minimize travel time and distance
-- Integration with various Google Maps Platform APIs for accurate and efficient route calculation
-- User-friendly interface built with Jetpack Compose
-
-Rest of the projects you can see in my repos tab :)
-
-<div> 
-  <h1>Contact Me</h1>
-</div>
-
-
-You can reach me here **www.linkedin.com/in/rafalbaron** or just e-mail me **rafal.IT@baron.hub.pl**
-
+I specialize in building automation and integration solutions - from headless
+console apps and WinForms tools to REST API integrations and web automation
+with Selenium (UI automation). I work end-to-end: analysis, design, implementation, and maintenance.
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafalBaron&label=Profile%20views&color=0e75b6&style=flat" alt="profile views counter">
-</div>
+# Technical Skills
+
+### Core
+- **C# / .NET**
+- **REST API** (consuming)
+- **Selenium** (web automation)
+- **WinForms**
+- **GIT**
+- **Workflow** (SAIO) 
+
+### Additional
+- Python
+- SQL
+- HTML & CSS
+- Kotlin + Jetpack Compose
+- Firebase, Google Cloud Platform
+
+---
+
+# Projects
+
+### 🚗 [Car Commission System](https://github.com/rafalBaron/KomisKompan) *(in progress, private repo)*
+A web application for managing a car dealership built with **Blazor Pages** and **C#/.NET** (and Gemini CLI x).
+Features: vehicle listings, pagination, filters, admin panel, adding/editing/deleting vehicles
+
+### 📱 [TraSka](https://github.com/rafalBaron/traSka)
+Android app for optimizing routes between multiple waypoints.
+Built with **Kotlin**, **Jetpack Compose**, **Firebase** and **Google Maps Platform APIs**.
+Developed as my Engineering Thesis — defended with grade 5/5.
+
+---
+
+# Contact
+
+📧 rafal.IT@baron.hub.pl  
+💼 [linkedin.com/in/rafalbaron](https://www.linkedin.com/in/rafalbaron)
