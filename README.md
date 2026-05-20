@@ -30,11 +30,11 @@ with Selenium (UI automation). I work end-to-end: analysis, design, implementati
 
 # Projects
 
-### 🚗 [Car Commission System](https://github.com/rafalBaron/KomisKompan) *(in progress, private repo)*
+### [Car Commission System](https://github.com/rafalBaron/KomisKompan) *(in progress, private repo)*
 A web application for managing a car dealership built with **Blazor Pages** and **C#/.NET** (and Gemini CLI x).
 Features: vehicle listings, pagination, filters, admin panel, adding/editing/deleting vehicles
 
-### 📱 [TraSka](https://github.com/rafalBaron/traSka)
+### [TraSka](https://github.com/rafalBaron/traSka)
 Android app for optimizing routes between multiple waypoints.
 Built with **Kotlin**, **Jetpack Compose**, **Firebase** and **Google Maps Platform APIs**.
 Developed as my Engineering Thesis — defended with grade 5/5.
@@ -43,5 +43,5 @@ Developed as my Engineering Thesis — defended with grade 5/5.
 
 # Contact
 
-📧 rafal.IT@baron.hub.pl  
-💼 [linkedin.com/in/rafalbaron](https://www.linkedin.com/in/rafalbaron)
+rafal.IT@baron.hub.pl  
+[linkedin.com/in/rafalbaron](https://www.linkedin.com/in/rafalbaron)
