@@ -1,7 +1,7 @@
 # About Me
 
 Hi! I'm Rafał, a **.NET / C# Developer** with 2+ years of commercial experience,
-currently working at ING Poland and SAIO.
+currently working at SAIO.
 
 I specialize in building automation and integration solutions - from headless
 console apps and WinForms tools to REST API integrations and web automation
